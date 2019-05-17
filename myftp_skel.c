@@ -24,7 +24,7 @@ bool recv_msg(int sd, int code, char *text) {
     char buffer[BUFSIZE], message[BUFSIZE];
     int recv_s, recv_code;
 
-    // receive the answer
+    // receive the answer//
 
 
     // error checking
